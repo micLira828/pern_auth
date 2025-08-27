@@ -1,2 +1,16 @@
 
 Notes for today: Complete first section with the demo
+
+
+
+
+JWT Notes
+-------------------------------------------------
+--------------------------------------------------
+Authentication: Checking whether you're the person
+you claim to be
+Ex. Checking to make sure they are members of the family to 
+enter the bar
+
+Authorization: Checking what you are allowed to do depending on your credentials
+Ex. Were given the wristbands to be authorized to enter the family bar
